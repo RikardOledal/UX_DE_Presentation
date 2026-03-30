@@ -54,6 +54,7 @@
 * Att lösa ett problem eller en uppgift som jag har kämpat med.
 * Att prata och umgås.
 * AW
+* Sjunga
 
 ### 🪫 Tar energi
 * Utdragna möten där det inte känns som att man kommer framåt.
